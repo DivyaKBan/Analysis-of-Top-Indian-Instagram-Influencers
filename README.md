@@ -45,19 +45,23 @@ The analysis aims to answer the following questions:
 #### 1. Follower Count Does Not Equal Higher Engagement
 The analysis reveals a clear negative correlation **(-0.17)** between follower count and engagement rate. As an influencer's audience grows, the average engagement rate tends to decline.
 
-![Follower vs Engagement Rate](images/followers_vs_engagement.png)
+
+![Follower vs Engagement Rate]
+<img width="779" height="658" alt="Screenshot 2025-08-16 004434" src="https://github.com/user-attachments/assets/ae33e8cd-555b-4458-9b25-152cc76b89f0" />
 
 #### 2. Micro-Influencers Drive the Highest Engagement
 By categorizing influencers into tiers, it's evident that Mega-influencers have the lowest average engagement rate, while Micro-influencers have the highest. This suggests that smaller, niche audiences are often more interactive and dedicated.
 
-![ER by Tier](images/avg_er_by_tier.png)
+![ER by Tier]
+<img width="860" height="681" alt="Screenshot 2025-08-16 004504" src="https://github.com/user-attachments/assets/6fb6e5fc-a4a8-47c0-ae80-3bdbd79fcc90" />
 
 #### 3. Entertainment and Acting are Dominant Topics
 The Word Cloud shows that the Indian influencer landscape is heavily dominated by figures from the **Entertainment, Music, and Acting** industries. This highlights the strong influence of the film and music industry on social media.
 
-![Topic Word Cloud](images/topics_wordcloud.png)
-
+![Topic Word Cloud]
+<img width="1183" height="630" alt="Screenshot 2025-08-16 004526" src="https://github.com/user-attachments/assets/4371f0dd-a01f-42b2-b69d-b98b7e88af47" />
 ---
+
 
 ### Conclusion & Recommendations
 
